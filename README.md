@@ -116,7 +116,7 @@ To contribute my knowledge in Artificial Intelligence, Machine Learning, and Sof
 
 📧 Email: akhi2002akhil@gmail.com
 
-💼 LinkedIn: *(https://www.linkedin.com/in/akhil-mohan-0a6220289/)*
+💼 LinkedIn: *https://www.linkedin.com/in/akhil-mohan-0a6220289/*
 
 ---
 
