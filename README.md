@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Akhil Mohan
 
 ## 🚀 AI Developer | Machine Learning Engineer | MCA (AI & Data Science)
