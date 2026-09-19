@@ -1,285 +1,457 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Akhil Mohan AI Developer Header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/105akhilmohan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=680&height=42&lines=Hi%20there!%20I'm%20Akhil%20Mohan%20%F0%9F%91%8B;AI%20Developer%20%7C%20Machine%20Learning%20Engineer%20%F0%9F%A4%96;NLP%20%26%20Generative%20AI%20Enthusiast%20%F0%9F%A7%A0;RAG%20%26%20LLM%20Application%20Builder%20%F0%9F%94%8E;Building%20Intelligent%20Software%20Solutions%20%E2%9A%A1" width="100%" style="max-width: 680px;" alt="Typing SVG" />
-  </a>
-</p>
+# 👋 Hi, I'm Akhil Mohan
 
-<p align="center">
-  <a href="https://linkedin.com/in/akhil-mohan-0a6220289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:akhi2002akhil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/105akhilmohan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
+### 🤖 AI Developer | Machine Learning Engineer | Generative AI
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=105akhilmohan&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+**MCA — Artificial Intelligence & Data Science**
+
+I build intelligent software solutions using **Machine Learning, Deep Learning, NLP, RAG, LLMs and Multimodal AI**.
+
+<br>
+
+<a href="https://github.com/105akhilmohan">
+  <img src="https://img.shields.io/badge/GitHub-105akhilmohan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akhil-mohan-0a6220289/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:akhi2002akhil@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=105akhilmohan&label=PROFILE%20VIEWS&color=0969DA&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Driven%20by%20curiosity.%20Building%20with%20AI.%20Creating%20for%20impact." width="100%" style="max-width: 650px;" alt="About Me Quote" />
+  Master's graduate in <b>Computer Applications specializing in Artificial Intelligence and Data Science</b>.<br>
+  Experienced in <b>Multimodal AI, Machine Learning, NLP, RAG systems and Large Language Models</b>.<br>
+  Interested in building practical AI-driven software and contributing to innovative projects.
 </p>
 
 <p align="center">
-  Hey! I'm <b>Akhil Mohan</b>, an <b>AI Developer and Machine Learning Engineer</b> based in India.<br />
-  I specialize in building intelligent software systems using <b>Machine Learning, Deep Learning, NLP, RAG, LLMs and Multimodal AI</b>.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Learning-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0969DA?style=flat-square" alt="AI Focus" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-MCA_AI_%26_Data_Science-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20Data%20Science-24292F?style=flat-square" alt="Specialization" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI_%26_Generative_AI-111111?style=flat-square" alt="Focus" />
-</p>
-
-<p align="center">
-  💬 <b>Interested in:</b> Artificial Intelligence, Machine Learning, NLP, RAG, LLMs, Multimodal AI &amp; AI Engineering.<br />
-  ⚡ <b>Philosophy:</b> <i>"Turn AI ideas into practical, scalable software."</i>
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-0969DA?style=flat-square" alt="Location" />
 </p>
 
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🤖 AI Focus</h4>
-  <p><b>Machine Learning &amp; Generative AI</b><br /><sub>Building intelligent applications</sub></p>
+
+### 🤖 AI & ML
+Machine Learning<br>
+Deep Learning<br>
+Transformers<br>
+Multimodal AI
+
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔎 Deep Dive</h4>
-  <p><b>RAG &amp; LLM Applications</b><br /><sub>Context-aware AI systems</sub></p>
+
+### 🔎 Generative AI
+RAG Systems<br>
+Large Language Models<br>
+NLP<br>
+Information Extraction
+
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>📚 Education AI</h4>
-  <p><b>Intelligent Learning Systems</b><br /><sub>AI-powered educational solutions</sub></p>
+
+### ⚙️ AI Engineering
+Model Development<br>
+Model Evaluation<br>
+AI Application Development<br>
+Production Integration
+
 </td>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🚀 Engineering</h4>
-  <p><b>AI APIs &amp; Applications</b><br /><sub>Deployment with Docker &amp; AWS</sub></p>
+
+### 📚 Research Interest
+Multimodal AI<br>
+LLM Applications<br>
+AI-driven Software<br>
+Document Intelligence
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🔴 Featured Project Spotlight</h2>
+<h2 align="center">💼 Work Experience</h2>
 
 <table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 22px;">
-  <h3>📚 Context-Aware QA Extraction from Educational PDFs</h3>
-  <p><i>An AI-powered educational document processing system for extracting content and generating context-aware questions and answers using NLP and Transformer-based models.</i></p>
-  <br />
-  <p>
-    <a href="https://github.com/105akhilmohan" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
-  </p>
-</td>
-</tr>
-</table>
 
-<table width="100%" border="0" align="center">
 <tr>
-<td width="50%" align="center" style="padding: 18px;">
-  <h3>🌾 SmartAgri</h3>
-  <p><i>AI-powered agriculture platform for intelligent crop, irrigation, pest and market-related insights.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/Machine%20Learning-DC2626?style=flat-square" />
-    <img src="https://img.shields.io/badge/Random%20Forest-111111?style=flat-square" />
-    <img src="https://img.shields.io/badge/CNN-DC2626?style=flat-square" />
-  </p>
+<td width="30%" valign="top">
+
+### Junior AI & Data Science Developer
+
+**Logiprompt Techno Solutions India Pvt. Ltd.**  
+Trivandrum, Kerala
+
+**Dec 2025 – Present**
+
 </td>
-<td width="50%" align="center" style="padding: 18px;">
-  <h3>🧠 AI Educational Platform</h3>
-  <p><i>Educational ecosystem combining AI question generation, answer evaluation, assessments and personalized learning.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-DC2626?style=flat-square" />
-    <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square" />
-    <img src="https://img.shields.io/badge/LLM-DC2626?style=flat-square" />
-  </p>
+
+<td width="70%" valign="top">
+
+- Developing Machine Learning and AI solutions for real-world applications.
+- Working on data preprocessing, feature engineering and model training.
+- Implementing and evaluating models using Python, Pandas, NumPy, OpenCV and Scikit-learn.
+- Building and deploying AI models for predictive analytics and automation.
+- Collaborating with cross-functional teams to integrate AI modules into production systems.
+- Improving model performance through testing, validation and hyperparameter tuning.
+
 </td>
 </tr>
+
 <tr>
-<td width="50%" align="center" style="padding: 18px;">
-  <h3>🔎 RAG-Based Intelligent Systems</h3>
-  <p><i>Retrieval-Augmented Generation pipelines for context-aware responses from knowledge sources.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/RAG-DC2626?style=flat-square" />
-    <img src="https://img.shields.io/badge/LLM-111111?style=flat-square" />
-    <img src="https://img.shields.io/badge/Embeddings-DC2626?style=flat-square" />
-  </p>
+<td width="30%" valign="top">
+
+### Artificial Intelligence Developer Intern
+
+**Zecser Business Solution LLP**  
+Remote
+
+**Sep 2025 – Nov 2025**
+
 </td>
-<td width="50%" align="center" style="padding: 18px;">
-  <h3>🎯 AI Assessment &amp; Career Mapping</h3>
-  <p><i>AI-driven assessment workflows using Multiple Intelligence categories and personalized career mapping.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/NLP-DC2626?style=flat-square" />
-    <img src="https://img.shields.io/badge/AI-111111?style=flat-square" />
-    <img src="https://img.shields.io/badge/Personalization-DC2626?style=flat-square" />
-  </p>
+
+<td width="70%" valign="top">
+
+- Implemented Deep Learning models using TensorFlow/Keras.
+- Built interactive AI applications using Streamlit and Flask.
+- Developed, trained and evaluated supervised and unsupervised Machine Learning models.
+- Performed data collection, cleaning, preprocessing and exploratory analysis.
+- Worked on NLP tasks including text classification and information extraction.
+- Collaborated with Django and React developers for production-level AI integration.
+- Developed a RAG chatbot using LLMs, document embeddings and semantic search.
+
 </td>
 </tr>
+
+<tr>
+<td width="30%" valign="top">
+
+### Machine Learning Intern
+
+**Future Interns**  
+Remote
+
+**Aug 2025 – Sep 2025**
+
+</td>
+
+<td width="70%" valign="top">
+
+- Developed Machine Learning models in Python.
+- Executed end-to-end pipelines including preprocessing, feature engineering and evaluation.
+- Worked with NumPy, Pandas, Scikit-learn and Jupyter Notebook.
+- Gained practical experience in data-driven project development.
+
+</td>
+</tr>
+
 </table>
 
 ---
 
-<h2 align="center">🧩 AI Engineering Workflow</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center"><i>From raw information to production-ready intelligent applications.</i></p>
+<table width="100%" border="0" align="center">
 
-<p align="center">
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+## 🔬 Automated Evaluation of Use Case Diagram
+
+AI-based automated evaluation system for UML use case diagrams using Large Language Models.
+
+**Tools**
+
+`Multimodal LLMs` `GenAI` `Transformers`
+
+**Highlights**
+
+- Converts diagrams into text-based PlantUML code.
+- Compares actors, use cases and relationships.
+- Performs semantic analysis.
+- Computes similarity scores using predefined rubrics.
+- Helps reduce subjectivity in software engineering assessment.
+
+**Jan 2025 – Jun 2025**
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+## 🤖 AI Chatbot for College
+
+An expert-system-based chatbot designed to answer common student queries about a college.
+
+**Tools**
+
+`HTML` `CSS` `PHP` `MySQL`
+
+**Highlights**
+
+- Analyzed common student enquiries.
+- Implemented automated responses.
+- Designed contextually appropriate answers.
+- Contributed to system design and architecture.
+
+**Jan 2023 – May 2023**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" style="padding: 20px;">
+
+## 🎬 Online Movie Booking System
+
+Web-based movie ticket booking system with backend database integration.
+
+**Tools**
+
+`HTML` `CSS` `PHP` `MySQL`
+
+**Highlights**
+
+- Designed the web application.
+- Implemented database integration.
+- Developed the system architecture.
+- Built movie ticket booking functionality.
+
+**Mar 2022 – Aug 2022**
+
+</td>
+
+<td width="50%" align="center" style="padding: 20px;">
+
+## 🔎 RAG Systems
+
+Developed experience with Retrieval-Augmented Generation systems during AI development work.
+
+**Core Technologies**
+
+`LLMs` `Embeddings` `Semantic Search` `RAG`
+
+**Pipeline**
 
 ```text
-                 ┌─────────────────────┐
-                 │       Problem       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │    Data / PDFs      │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Preprocessing / NLP │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   ML / DL / LLM     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ Retrieval / Inference│
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   API / Application │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   Docker / AWS      │
-                 └─────────────────────┘
+Documents
+    ↓
+Document Processing
+    ↓
+Embeddings
+    ↓
+Semantic Search
+    ↓
+Relevant Context
+    ↓
+Large Language Model
+    ↓
+Context-Aware Response
 ```
 
-</p>
+</td>
+</tr>
+
+</table>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+<h2 align="center">🧠 Technical Skills</h2>
+
+<p align="center"><b>AI & Machine Learning</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-24292F?style=for-the-badge" />
+</p>
+
+<p align="center"><b>Natural Language Processing</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BERT-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Text%20Classification-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Information%20Extraction-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLTK-24292F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpaCy-0969DA?style=for-the-badge" />
+</p>
+
+<p align="center"><b>Frameworks & Libraries</b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=light" alt="AI Frameworks" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+</p>
 
 <p align="center"><b>Programming Languages</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,mysql&theme=dark" width="100%" style="max-width: 420px;" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,mysql&theme=light" alt="Programming Languages" />
   </a>
 </p>
 
-<p align="center"><b>AI, Machine Learning &amp; Data Science</b></p>
+<p align="center"><b>Web Development</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" width="100%" style="max-width: 260px;" alt="AI ML" />
+    <img src="https://skillicons.dev/icons?i=html,css,django,react&theme=light" alt="Web Development" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=EF4444" alt="Transformers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/BERT-0a0a0a?style=for-the-badge&logo=google&logoColor=EF4444" alt="BERT" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG-0a0a0a?style=for-the-badge&logo=databricks&logoColor=EF4444" alt="RAG" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&logo=openai&logoColor=EF4444" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SciPy-0a0a0a?style=for-the-badge&logo=scipy&logoColor=EF4444" alt="SciPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/spaCy-0a0a0a?style=for-the-badge&logo=spacy&logoColor=EF4444" alt="spaCy" />
-</p>
-
-<p align="center"><b>Web, Backend &amp; APIs</b></p>
+<p align="center"><b>Tools & Visualization</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,html,css&theme=dark" width="100%" style="max-width: 380px;" alt="Web and Backend" />
+    <img src="https://skillicons.dev/icons?i=git,github,jupyter&theme=light" alt="Tools" />
   </a>
 </p>
 
-<p align="center"><b>Database, Cloud &amp; DevOps</b></p>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,git,github,linux,vscode&theme=dark" width="100%" style="max-width: 450px;" alt="Cloud and DevOps" />
-  </a>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center">🧠 AI Areas of Interest</h2>
+<h2 align="center">🔬 Research & Publication</h2>
 
-<table width="100%" border="0" align="center">
+<table width="100%" border="0">
 <tr>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>🤖 AI / ML</h3>
-  <p>Machine Learning<br />Deep Learning<br />Computer Vision</p>
-</td>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>🗣️ NLP</h3>
-  <p>BERT<br />Information Extraction<br />Text Classification</p>
-</td>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>🔥 Generative AI</h3>
-  <p>LLMs<br />RAG<br />AI Applications</p>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>👁️ Multimodal AI</h3>
-  <p>Vision + Language<br />Document Intelligence<br />AI Systems</p>
-</td>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>⚙️ AI Engineering</h3>
-  <p>FastAPI<br />Docker<br />AWS</p>
-</td>
-<td width="33%" align="center" style="padding: 15px;">
-  <h3>📚 EdTech AI</h3>
-  <p>Assessment<br />Question Generation<br />Personalization</p>
+<td align="center" style="padding: 20px;">
+
+### 📄 Automated Block Diagram Interpretation
+
+**Extracting and Evaluating Contextual Descriptions Using Large Language Models**
+
+Research focused on generating clear and meaningful textual descriptions from block diagram images by extracting diagram contents and using advanced Large Language Models for context-based description generation.
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics &amp; Activity</h2>
+<h2 align="center">🎓 Education</h2>
+
+<table width="100%" border="0">
+
+<tr>
+<td width="25%" align="center">
+
+### 2023 – 2025
+
+</td>
+<td width="75%">
+
+**Amrita Vishwa Vidyapeetham**
+
+Master of Computer Applications  
+**Specialization: Artificial Intelligence & Data Science**
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+### 2020 – 2023
+
+</td>
+<td width="75%">
+
+**University of Kerala**
+
+Bachelor of Computer Applications
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+### 2018 – 2020
+
+</td>
+<td width="75%">
+
+**John F Kennedy Higher Secondary School**
+
+Higher Secondary
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<h2 align="center">📜 Certifications</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=105akhilmohan&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+
+<img src="https://img.shields.io/badge/Introduction%20to%20C-Sololearn-0969DA?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Linux%20Unhatched-Cisco%20Networking%20Academy-24292F?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-FreeCodeCamp-0969DA?style=for-the-badge" />
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/105akhilmohan">
+    <img src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" width="100%" style="max-width: 450px;" alt="Akhil Mohan GitHub Stats" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=105akhilmohan&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <a href="https://github.com/105akhilmohan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=105akhilmohan&layout=compact&langs_count=8&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" width="100%" style="max-width: 350px;" alt="Akhil Mohan Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=105akhilmohan&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <a href="https://github.com/105akhilmohan">
+    <img src="https://streak-stats.demolab.com/?user=105akhilmohan&theme=default&hide_border=false&border=D0D7DE&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" width="100%" style="max-width: 500px;" alt="Akhil Mohan GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -287,98 +459,102 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=105akhilmohan&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=105akhilmohan&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h2 align="center">⚡ Contribution Journey</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=105akhilmohan&bg_color=ffffff&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=false&border_color=D0D7DE" width="100%" alt="Akhil Mohan Contribution Graph" />
 </p>
 
 ---
 
 <h2 align="center">🎯 Current Focus</h2>
 
-<table width="100%" border="0" align="center">
+<table width="100%" border="0">
 <tr>
-<td width="50%" align="center" style="padding: 15px;">
-  <h3>🔎 Advanced RAG</h3>
-  <p>Building accurate retrieval pipelines and context-aware AI applications.</p>
+<td width="50%" align="center" style="padding: 16px;">
+
+### 🧠 Generative AI
+
+Large Language Models<br>
+RAG Applications<br>
+Multimodal AI
+
 </td>
-<td width="50%" align="center" style="padding: 15px;">
-  <h3>🤖 AI Agents</h3>
-  <p>Exploring agentic workflows and intelligent task automation.</p>
+<td width="50%" align="center" style="padding: 16px;">
+
+### 🔎 NLP
+
+Text Classification<br>
+Information Extraction<br>
+Transformer Models
+
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" style="padding: 15px;">
-  <h3>👁️ Multimodal AI</h3>
-  <p>Combining vision, language and document understanding.</p>
+<td width="50%" align="center" style="padding: 16px;">
+
+### 🤖 Machine Learning
+
+Model Development<br>
+Model Evaluation<br>
+Predictive Analytics
+
 </td>
-<td width="50%" align="center" style="padding: 15px;">
-  <h3>☁️ Production AI</h3>
-  <p>Deploying scalable AI APIs and applications with Docker and AWS.</p>
+<td width="50%" align="center" style="padding: 16px;">
+
+### ⚙️ AI Software
+
+AI APIs<br>
+Application Integration<br>
+Production Deployment
+
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🚀 2026 Goals</h2>
+<h2 align="center">🚀 Career Objective</h2>
+
+<p align="center">
+  To contribute knowledge in <b>Artificial Intelligence, Machine Learning and Software Development</b>
+  by building intelligent, scalable and impactful applications while continuously improving technical expertise
+  and contributing to innovative projects.
+</p>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  <i>Interested in AI, Machine Learning, NLP, RAG, LLMs or intelligent software systems?</i>
+</p>
 
 <p align="center">
 
-`LLM Applications` &nbsp; `Advanced RAG` &nbsp; `AI Agents` &nbsp; `Multimodal AI`
-
-<br /><br />
-
-`Production AI` &nbsp; `Open Source` &nbsp; `Research` &nbsp; `Cloud Deployment`
+<a href="https://github.com/105akhilmohan">
+  <img src="https://img.shields.io/badge/GitHub-105akhilmohan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akhil-mohan-0a6220289/">
+  <img src="https://img.shields.io/badge/LinkedIn-Akhil%20Mohan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:akhi2002akhil@gmail.com">
+  <img src="https://img.shields.io/badge/Email-akhi2002akhil%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </p>
 
 ---
 
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+<div align="center">
 
-<p align="center">
-  <i>Interested in AI, Machine Learning, Generative AI, RAG or intelligent software systems? Let's build something useful.</i>
-</p>
+### 🚀 Building Intelligent Systems • One Model at a Time
 
-<table border="0" align="center">
-<tr>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/akhil-mohan-0a6220289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br /><br />
-  <sub><b>Professional Network</b></sub>
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:akhi2002akhil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br /><br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://github.com/105akhilmohan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-  <br /><br />
-  <sub><b>Projects &amp; Code</b></sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
-
-<p align="center">
-  <b>🚀 Building Intelligent Systems • One Model at a Time</b>
-</p>
+</div>
