@@ -243,31 +243,6 @@ Web-based movie ticket booking system with backend database integration.
 
 <td width="50%" align="center" style="padding: 20px;">
 
-## 🔎 RAG Systems
-
-Developed experience with Retrieval-Augmented Generation systems during AI development work.
-
-**Core Technologies**
-
-`LLMs` `Embeddings` `Semantic Search` `RAG`
-
-**Pipeline**
-
-```text
-Documents
-    ↓
-Document Processing
-    ↓
-Embeddings
-    ↓
-Semantic Search
-    ↓
-Relevant Context
-    ↓
-Large Language Model
-    ↓
-Context-Aware Response
-```
 
 </td>
 </tr>
@@ -368,73 +343,6 @@ Research focused on generating clear and meaningful textual descriptions from bl
 
 ---
 
-<h2 align="center">🎓 Education</h2>
-
-<table width="100%" border="0">
-
-<tr>
-<td width="25%" align="center">
-
-### 2023 – 2025
-
-</td>
-<td width="75%">
-
-**Amrita Vishwa Vidyapeetham**
-
-Master of Computer Applications  
-**Specialization: Artificial Intelligence & Data Science**
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">
-
-### 2020 – 2023
-
-</td>
-<td width="75%">
-
-**University of Kerala**
-
-Bachelor of Computer Applications
-
-</td>
-</tr>
-
-<tr>
-<td width="25%" align="center">
-
-### 2018 – 2020
-
-</td>
-<td width="75%">
-
-**John F Kennedy Higher Secondary School**
-
-Higher Secondary
-
-</td>
-</tr>
-
-</table>
-
----
-
-<h2 align="center">📜 Certifications</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Introduction%20to%20C-Sololearn-0969DA?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Linux%20Unhatched-Cisco%20Networking%20Academy-24292F?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-FreeCodeCamp-0969DA?style=for-the-badge" />
-
-</p>
-
----
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -456,18 +364,20 @@ Higher Secondary
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<h2 align="center">🚀 GitHub Profile</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=105akhilmohan&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="100%" alt="GitHub Trophies" />
-</p>
 
----
+<a href="https://github.com/105akhilmohan">
+  <img src="https://img.shields.io/badge/GitHub-105akhilmohan-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h2 align="center">📈 Contribution Activity</h2>
+&nbsp;
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=105akhilmohan&bg_color=ffffff&color=24292F&line=0969DA&point=0969DA&area=true&hide_border=false&border_color=D0D7DE" width="100%" alt="Akhil Mohan Contribution Graph" />
+<a href="https://github.com/105akhilmohan?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
