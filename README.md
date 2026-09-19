@@ -348,6 +348,4 @@ Production Deployment
 
 <div align="center">
 
-### 🚀 Building Intelligent Systems • One Model at a Time
-
 </div>
