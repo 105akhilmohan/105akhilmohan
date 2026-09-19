@@ -1,137 +1,224 @@
+<div align="center">
 
 # 👋 Hi, I'm Akhil Mohan
 
-## 🚀 AI Developer | Machine Learning Engineer | MCA (AI & Data Science)
+### AI Developer • Machine Learning Engineer • MCA (AI & Data Science)
 
-I am a passionate AI Developer with a Master's degree in Computer Applications specializing in Artificial Intelligence and Data Science. I enjoy building intelligent software solutions using Machine Learning, Deep Learning, Natural Language Processing, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs).
+Building intelligent systems with **Machine Learning, Deep Learning, NLP, RAG, Multimodal AI & Large Language Models**
 
-I have experience in developing AI-powered applications, deploying machine learning models, and integrating AI solutions into real-world software systems. I am always eager to learn emerging technologies and contribute to innovative projects that solve practical problems.
+<br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil%20Mohan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akhil-mohan-0a6220289/)
+[![Gmail](https://img.shields.io/badge/Gmail-akhi2002akhil-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akhi2002akhil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-105akhilmohan-181717?style=for-the-badge\&logo=github)](https://github.com/105akhilmohan)
 
-# 👨‍💻 About Me
-
-- 🎓 Master's in Computer Applications (AI & Data Science)
-- 💼 AI Developer with internship experience in Machine Learning and NLP
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI
-- 📚 Passionate about Multimodal AI and Large Language Models
-- 💡 Experienced in developing RAG-based intelligent systems
-- 🔍 Interested in research and AI-driven software development
-- 🌱 Continuously learning new AI technologies and frameworks
-- 🚀 Passionate about building scalable AI applications
+</div>
 
 ---
 
-# 💻 Technical Skills
+## 🧠 About Me
 
-## Artificial Intelligence & Machine Learning
+I'm an **AI Developer and Machine Learning Engineer** with an MCA specialization in **Artificial Intelligence & Data Science**.
 
-- Machine Learning
-- Deep Learning
-- Supervised Learning
-- Unsupervised Learning
-- Transformers
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Multimodal AI
+I enjoy designing and developing intelligent applications that combine machine learning with modern software engineering. My interests include **Large Language Models, Retrieval-Augmented Generation, Natural Language Processing, Computer Vision, and Multimodal AI**.
 
----
-
-## Natural Language Processing
-
-- BERT
-- Text Classification
-- Information Extraction
-- NLTK
-- SpaCy
+* 🤖 Building AI-powered applications and intelligent systems
+* 🧠 Exploring **LLMs, RAG, Transformers & Multimodal AI**
+* 🔬 Interested in AI research and applied machine learning
+* 🚀 Developing scalable AI-backed software solutions
+* 📚 Continuously learning emerging AI technologies
+* 💡 Interested in solving practical problems using AI
 
 ---
 
-## Frameworks & Libraries
+## 🛠️ Tech Stack
 
-- PyTorch
-- TensorFlow
-- Keras
-- Scikit-Learn
-- Pandas
-- NumPy
-- SciPy
+### 🤖 AI / Machine Learning
 
----
+<p align="left">
 
-## Programming Languages
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multimodal%20AI-8A2BE2?style=for-the-badge"/>
 
-- Python
-- Java
-- C
-- C++
-- PHP
-- SQL (MySQL)
+</p>
 
----
+### 🧠 Frameworks & Libraries
 
-## Web Development
+<p align="left">
 
-- HTML
-- CSS
-- Django
-- React
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 
----
+</p>
 
-## Development Tools
+### 💻 Programming Languages
 
-- Git & GitHub
-- Flask
-- Streamlit
-- Jupyter Notebook
-- Matplotlib
-- Seaborn
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,mysql"/>
 
----
+</p>
 
-# 🎯 Areas of Interest
+### 🌐 Web & Application Development
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Multimodal AI
-- Retrieval-Augmented Generation
-- Large Language Models
-- Generative AI
-- Software Development
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,django,flask,react"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-# 🌟 Career Objective
+</p>
 
-To contribute my knowledge in Artificial Intelligence, Machine Learning, and Software Development by building intelligent, scalable, and impactful applications while continuously improving my technical expertise and contributing to innovative projects.
+### 🔧 Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 🚀 What I'm Exploring
 
-📧 Email: akhi2002akhil@gmail.com
-
-💼 LinkedIn: *https://www.linkedin.com/in/akhil-mohan-0a6220289/*
+```text
+🤖 Large Language Models
+🔎 Retrieval-Augmented Generation
+🧠 Transformer Architectures
+👁️ Computer Vision
+🎯 Multimodal AI
+📚 Natural Language Processing
+⚙️ AI Application Development
+☁️ AI Model Deployment
+```
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
-<!--
-**105akhilmohan/105akhilmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 📚 Context-Aware Question Answering from Educational PDFs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An AI-powered system designed to process educational PDF documents and generate context-aware questions and answers using NLP and Transformer-based models.
+
+**Technologies**
+
+`Python` `NLP` `Transformers` `BERT` `T5` `PyTorch` `PDF Processing`
+
+---
+
+### 🌾 SmartAgri — Intelligent Agriculture Platform
+
+An AI-driven agriculture platform combining multiple machine-learning modules for intelligent farming assistance.
+
+**Features**
+
+* 🌱 Crop recommendation
+* 🌦️ Weather analysis
+* 💧 Irrigation assistance
+* 🐛 Pest detection
+* 📈 Market tracking
+
+**Technologies**
+
+`Python` `Machine Learning` `Random Forest` `CNN` `Deep Learning`
+
+---
+
+### 🧠 RAG-Based Intelligent Systems
+
+Developing Retrieval-Augmented Generation pipelines that combine information retrieval with Large Language Models to generate context-aware responses.
+
+**Technologies**
+
+`Python` `RAG` `LLMs` `Transformers` `Vector Search` `NLP`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=105akhilmohan&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=105akhilmohan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=105akhilmohan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```python
+akhil = {
+    "role": "AI Developer",
+    "education": "MCA - AI & Data Science",
+    "focus": [
+        "Machine Learning",
+        "Deep Learning",
+        "Large Language Models",
+        "RAG",
+        "Multimodal AI"
+    ],
+    "currently_learning": [
+        "Advanced LLM Applications",
+        "AI Agents",
+        "Multimodal Systems",
+        "Production AI"
+    ]
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on projects involving:
+
+**Artificial Intelligence • Machine Learning • NLP • LLMs • RAG • Computer Vision • Multimodal AI**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akhil-mohan-0a6220289/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akhi2002akhil@gmail.com)
+
+<br>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent systems, one model at a time."*
+
+</div>
