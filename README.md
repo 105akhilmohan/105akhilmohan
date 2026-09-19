@@ -65,7 +65,7 @@ I enjoy designing and developing intelligent applications that combine machine l
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql"/>
 
 </p>
 
