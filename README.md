@@ -265,20 +265,6 @@ Research focused on generating clear and meaningful textual descriptions from bl
 
 ---
 
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img
-    src="./assets/contribution.svg"
-    width="100%"
-    alt="Akhil Mohan GitHub Contribution Graph"
-  />
-</p>
-
----
-
-
 <h2 align="center">🎯 Current Focus</h2>
 
 <table width="100%" border="0">
