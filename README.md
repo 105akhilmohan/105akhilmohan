@@ -91,84 +91,6 @@ Document Intelligence
 
 ---
 
-<h2 align="center">💼 Work Experience</h2>
-
-<table width="100%" border="0" align="center">
-
-<tr>
-<td width="30%" valign="top">
-
-### Junior AI & Data Science Developer
-
-**Logiprompt Techno Solutions India Pvt. Ltd.**  
-Trivandrum, Kerala
-
-**Dec 2025 – Present**
-
-</td>
-
-<td width="70%" valign="top">
-
-- Developing Machine Learning and AI solutions for real-world applications.
-- Working on data preprocessing, feature engineering and model training.
-- Implementing and evaluating models using Python, Pandas, NumPy, OpenCV and Scikit-learn.
-- Building and deploying AI models for predictive analytics and automation.
-- Collaborating with cross-functional teams to integrate AI modules into production systems.
-- Improving model performance through testing, validation and hyperparameter tuning.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-### Artificial Intelligence Developer Intern
-
-**Zecser Business Solution LLP**  
-Remote
-
-**Sep 2025 – Nov 2025**
-
-</td>
-
-<td width="70%" valign="top">
-
-- Implemented Deep Learning models using TensorFlow/Keras.
-- Built interactive AI applications using Streamlit and Flask.
-- Developed, trained and evaluated supervised and unsupervised Machine Learning models.
-- Performed data collection, cleaning, preprocessing and exploratory analysis.
-- Worked on NLP tasks including text classification and information extraction.
-- Collaborated with Django and React developers for production-level AI integration.
-- Developed a RAG chatbot using LLMs, document embeddings and semantic search.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-### Machine Learning Intern
-
-**Future Interns**  
-Remote
-
-**Aug 2025 – Sep 2025**
-
-</td>
-
-<td width="70%" valign="top">
-
-- Developed Machine Learning models in Python.
-- Executed end-to-end pipelines including preprocessing, feature engineering and evaluation.
-- Worked with NumPy, Pandas, Scikit-learn and Jupyter Notebook.
-- Gained practical experience in data-driven project development.
-
-</td>
-</tr>
-
-</table>
-
----
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -356,23 +278,6 @@ Research focused on generating clear and meaningful textual descriptions from bl
 
 ---
 
-<h2 align="center">🚀 GitHub Profile</h2>
-
-<p align="center">
-
-<a href="https://github.com/105akhilmohan">
-  <img src="https://img.shields.io/badge/GitHub-105akhilmohan-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/105akhilmohan?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
 
 <h2 align="center">🎯 Current Focus</h2>
 
