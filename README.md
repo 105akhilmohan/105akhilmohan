@@ -348,19 +348,23 @@ Research focused on generating clear and meaningful textual descriptions from bl
 
 <p align="center">
   <a href="https://github.com/105akhilmohan">
-    <img src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" width="100%" style="max-width: 450px;" alt="Akhil Mohan GitHub Stats" />
+    <img src="https://img.shields.io/badge/GitHub-105akhilmohan-24292F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/105akhilmohan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=105akhilmohan&layout=compact&langs_count=8&theme=default&hide_border=false&border_color=D0D7DE&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" width="100%" style="max-width: 350px;" alt="Akhil Mohan Top Languages" />
+  &nbsp;
+  <a href="https://github.com/105akhilmohan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/105akhilmohan?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-View%20Profile-57606A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/105akhilmohan">
-    <img src="https://streak-stats.demolab.com/?user=105akhilmohan&theme=default&hide_border=false&border=D0D7DE&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=24292F&sideNums=24292F&currStreakLabel=0969DA&sideLabels=57606A&dates=57606A" width="100%" style="max-width: 500px;" alt="Akhil Mohan GitHub Streak" />
-  </a>
+  <b>💻 AI Developer • 🤖 Machine Learning • 🔎 NLP • 🧠 LLMs • 🚀 Generative AI</b>
 </p>
+
+---
 
 ---
 
