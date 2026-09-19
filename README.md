@@ -344,27 +344,15 @@ Research focused on generating clear and meaningful textual descriptions from bl
 ---
 
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <a href="https://github.com/105akhilmohan">
-    <img src="https://img.shields.io/badge/GitHub-105akhilmohan-24292F?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/105akhilmohan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/105akhilmohan?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-View%20Profile-57606A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img
+    src="./assets/contribution.svg"
+    width="100%"
+    alt="Akhil Mohan GitHub Contribution Graph"
+  />
 </p>
-
-<p align="center">
-  <b>💻 AI Developer • 🤖 Machine Learning • 🔎 NLP • 🧠 LLMs • 🚀 Generative AI</b>
-</p>
-
----
 
 ---
 
