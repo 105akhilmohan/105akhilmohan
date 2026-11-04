@@ -351,12 +351,19 @@ Production Deployment
 
 <div align="center">
 
-  <!-- Contribution Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=105akhilmohan&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/105akhilmohan">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&theme=github_dark&hide_border=true"
+      width="60%"
+      alt="GitHub Statistics"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/105akhilmohan">
+    View my GitHub contribution calendar
+  </a>
 
 </div>
 
