@@ -347,25 +347,93 @@ Production Deployment
 ---
 
 
-<h2 align="center">📊 GitHub Contribution Activity</h2>
+---
+
+<h2 align="center">📊 GITHUB DEVELOPER DASHBOARD</h2>
+
+<p align="center">
+  <i>Building • Learning • Experimenting • Contributing</i>
+</p>
 
 <div align="center">
 
   <a href="https://github.com/105akhilmohan">
-    <img
-  src="https://raw.githubusercontent.com/105akhilmohan/105akhilmohan/output/github-contribution.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+    <img src="https://img.shields.io/badge/GITHUB-105AKHILMOHAN-161B22?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  </a>
+  <a href="https://github.com/105akhilmohan?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-0969DA?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 
-  <br/>
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=105akhilmohan&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">⚡ GitHub Statistics</h3>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="75%"
+    alt="GitHub Statistics"
+  />
+
+</div>
+
+<br/>
+
+<h3 align="center">💻 Technology Distribution</h3>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=105akhilmohan&layout=compact&theme=tokyonight&hide_border=true"
+    width="55%"
+    alt="Most Used Programming Languages"
+  />
+
+</div>
+
+<br/>
+
+<h3 align="center">🚀 Explore My Contributions</h3>
+
+<div align="center">
 
   <a href="https://github.com/105akhilmohan">
-    View my GitHub contribution calendar
+    <img src="https://img.shields.io/badge/VIEW%20PROFILE-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/105akhilmohan?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-8957E5?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/105akhilmohan?tab=activity">
+    <img src="https://img.shields.io/badge/RECENT%20ACTIVITY-238636?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <b>Consistently building and exploring AI-powered technologies.</b>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-00E5FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/BUILDING-GENERATIVE%20AI-8957E5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EXPLORING-LLMs%20%26%20RAG-238636?style=flat-square"/>
+
+</div>
+
+---
+
 
 ---
 
