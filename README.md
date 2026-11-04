@@ -353,10 +353,10 @@ Production Deployment
 
   <a href="https://github.com/105akhilmohan">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=105akhilmohan&show_icons=true&theme=github_dark&hide_border=true"
-      width="60%"
-      alt="GitHub Statistics"
-    />
+  src="https://raw.githubusercontent.com/105akhilmohan/105akhilmohan/output/github-contribution.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
   </a>
 
   <br/>
