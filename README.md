@@ -346,6 +346,23 @@ Production Deployment
 
 ---
 
+
+<h2 align="center">📊 GitHub Contribution Activity</h2>
+
+<div align="center">
+
+  <!-- Contribution Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=105akhilmohan&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+
+</div>
+
+---
+
+
 <div align="center">
 
 </div>
